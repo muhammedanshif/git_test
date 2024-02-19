@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "poppins",sans-serif;
+    text-align: center;
+    justify-content: space-between;
+
+}
+.section1{
+   
+}
+.section1 p{
+    font-size: 23px;
+    margin-top: 50px;
+    text-align: center;
+}
+.pic img{
+    margin-top: 50px;
+    width: 800px;
+    cursor:pointer;
+}
+.pic p,a{
+    text-decoration: none;
+    color: purple;
+    cursor: pointer;
+    text-align: left;
+}
+.para  p::first-letter {
+        float: left;
+        font-family: Georgia, serif;
+        font-size: 75px;
+        line-height: 60px;
+        padding: 3px;
+      }
+    
